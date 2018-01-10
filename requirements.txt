@@ -3,3 +3,6 @@ ipython
 pandas
 vdom
 jupyterlab_launcher
+boto3
+tweepy
+spotipy
