@@ -8,9 +8,6 @@ boto3
 tweepy
 spotipy
 plotly
-dash
-dash-renderer
-dash-html-components
-dash-core-components
 sql_magic
 python-dotenv
+beautifulsoup4
