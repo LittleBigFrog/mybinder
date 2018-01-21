@@ -11,3 +11,4 @@ plotly
 sql_magic
 python-dotenv
 beautifulsoup4
+wheel
