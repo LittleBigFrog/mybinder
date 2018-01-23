@@ -12,3 +12,5 @@ sql_magic
 python-dotenv
 beautifulsoup4
 wheel
+tqdm
+lxml
