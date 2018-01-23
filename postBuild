@@ -1,8 +1,5 @@
 #!/bin/bash
 
 # git update-index --assume-unchanged my.env
-apt-get install build-essential g++ flex bison gperf ruby perl \
-  libsqlite3-dev libfontconfig1-dev libicu-dev libfreetype6 libssl-dev \
-  libpng-dev libjpeg-dev python libx11-dev libxext-dev ttf-mscorefonts-installer
-wget https://github.com/ariya/phantomjs/releases/download/2.1.3/phantomjs
-chmod 777 phantomjs
+# wget https://github.com/ariya/phantomjs/releases/download/2.1.3/phantomjs
+
